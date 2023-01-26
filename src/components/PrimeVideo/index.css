@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.page-container {
+  background-color: #000000;
+  min-height: 100vh;
+}
+.prime-img {
+  width: 100%;
+  height: 40vh;
+}
+.movies-heading {
+  color: #ffffff;
+  font-size: 30px;
+  font-weight: 700;
+  font-family: 'Roboto';
+  margin-left: 30px;
+}
+.movie-slider-container {
+  padding: 40px;
+}

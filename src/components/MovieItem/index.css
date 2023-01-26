@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.thumbnail-img {
+  height: 180px;
+  width: 250px;
+}
+
+@media screen and (min-width: 1281px) {
+  .thumbnail-img {
+    height: 180px;
+    width: 350px;
+  }
+}
+
+.movie-card-button {
+  border-width: 0px;
+  outline: none;
+  cursor: pointer;
+  background-color: transparent;
+}
+.video-display-container {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+.close-button {
+  border-width: 0px;
+  outline: none;
+  cursor: pointer;
+  background-color: transparent;
+  align-self: flex-end;
+}
